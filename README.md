@@ -73,9 +73,11 @@ We welcome contributions! If you have study materials, resources, or tutorials t
 ## 🔗 Quick Links
 
 - [Documentation](#)
-- [Contributing Guidelines](#)
+- [Contributing Guidelines](#Ruchitaghate)
 - [License](#)
 
 ---
 
 **Happy Learning!** 🎉
+
+
